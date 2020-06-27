@@ -1,13 +1,13 @@
 * {
 	box-sizing: border-box;
 	padding: 0;
-	margin: 0;
+    margin: 0;
+    font-family: 'Baloo Bhai 2', cursive;
 }
 
 p {
 	font-size: 20px;
 	text-align: left;
-	font-family: Arial, sans-serif;
 	padding: 10px;
 	position: relative;
 }
@@ -58,14 +58,12 @@ div	{
 }
 }
 h1 {
-	font-family: Arial, sans-serif;
 	text-align: center;
 	font-size: 25px;
 	padding: 20px;
 	margin-bottom: 30px;
 	}
 h2 {
-	font-family: Arial, sans-serif;
 	text-align: center;
 	font-size: 25px;
 }
@@ -78,7 +76,7 @@ h2 {
 }
 
 #box1 {
-	width: 150px;
+	width: 152px;
 	box-sizing: border-box;
 	float: right;
 	border: 1px solid black;
@@ -86,7 +84,7 @@ h2 {
 	background: #2E9AFE;
 }
 #box2 {
-	width: 150px;
+	width: 152px;
 	box-sizing: border-box;
 	float: right;
 	border: 1px solid black;
@@ -94,10 +92,10 @@ h2 {
 	background: #B43104;
 }
 #box3 {
-	width: 150px;
+	width: 152px;
 	box-sizing: border-box;
 	float: right;
 	border: 1px solid black;
 	padding: 5px;
-	background: #04B404;
+	background: #04b494;
 }
